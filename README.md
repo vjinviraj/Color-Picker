@@ -30,7 +30,7 @@ Great for generating color palettes in seconds.
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/image-color-extractor.git
-cd image-color-extractor
+git clone https://github.com/yourusername/color-picker.git
+cd color-picker
 npm install
 npm run dev
