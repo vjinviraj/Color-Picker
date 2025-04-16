@@ -3,7 +3,7 @@
 A sleek and fast tool built with **React**, **Vite**, and **Tailwind CSS** to extract dominant colors from any uploaded image. 
 Great for generating color palettes in seconds.
 
-#Steps to use
+# Steps to use
 -Upload image
 ![image](https://github.com/user-attachments/assets/94b19819-3b5e-4436-be7d-0a1d87989085)
 ![image](https://github.com/user-attachments/assets/15653870-d50f-4d9d-a125-f7d7e3a2d172)
