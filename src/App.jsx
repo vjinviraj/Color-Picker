@@ -1,6 +1,6 @@
 import React from "react";
 import Home from "./pages/Home";
-import "color-picker/src/index.css"
+import "../src/index.css"
 
 const App = () => {
   return (
